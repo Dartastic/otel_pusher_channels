@@ -3,7 +3,7 @@ description: >-
   OpenTelemetry instrumentation for pusher_channels by Dartastic.io. Adds
   standard OpenTelemetry observability to applications that use
   pusher_channels.
-version: 0.1.0
+version: 0.1.1-wip
 repository: https://github.com/dartastic/otel_pusher_channels
 homepage: https://dartastic.io
 
